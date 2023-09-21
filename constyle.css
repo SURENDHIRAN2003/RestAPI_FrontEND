@@ -1,0 +1,55 @@
+
+.contact-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  
+  .contact-content {
+    text-align: center;
+  }
+  
+  
+  .contact-method {
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .contact-method h3 {
+    color: #333;
+  }
+  
+  
+  .contact-method a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  
+  .contact-method ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contact-method ul li {
+    margin-bottom: 5px;
+  }
+  
+  .contact-method ul li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  
+  .contact-method p {
+    color: #555;
+  }
+  

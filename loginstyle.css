@@ -1,0 +1,110 @@
+.auth-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: black;
+    box-shadow: 0 0 10px lightskyblue(0, 0, 0, 0.1);
+  }
+  
+  h4{
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+  }
+  #signup{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+  }
+  
+  input {
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid hwb(120 27% 20%);
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: hsl(0, 100%, 50%);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2d00b3;
+  } 
+  #signup {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #f9f9f9;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 24px;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  h4 {
+    color: #777;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  br {
+    margin: 5px 0;
+  }
+  
+  
